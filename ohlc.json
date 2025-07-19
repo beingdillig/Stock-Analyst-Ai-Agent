@@ -1,0 +1,84 @@
+{
+    "status": "success",
+    "data": {
+        "BSE_EQ:KAKTEX": {
+            "ohlc": {
+                "open": 19.97,
+                "high": 19.97,
+                "low": 19.41,
+                "close": 19.6
+            },
+            "depth": {
+                "buy": [
+                    {
+                        "quantity": 1,
+                        "price": 19.6,
+                        "orders": 1
+                    },
+                    {
+                        "quantity": 0,
+                        "price": 0.0,
+                        "orders": 0
+                    },
+                    {
+                        "quantity": 0,
+                        "price": 0.0,
+                        "orders": 0
+                    },
+                    {
+                        "quantity": 0,
+                        "price": 0.0,
+                        "orders": 0
+                    },
+                    {
+                        "quantity": 0,
+                        "price": 0.0,
+                        "orders": 0
+                    }
+                ],
+                "sell": [
+                    {
+                        "quantity": 0,
+                        "price": 0.0,
+                        "orders": 0
+                    },
+                    {
+                        "quantity": 0,
+                        "price": 0.0,
+                        "orders": 0
+                    },
+                    {
+                        "quantity": 0,
+                        "price": 0.0,
+                        "orders": 0
+                    },
+                    {
+                        "quantity": 0,
+                        "price": 0.0,
+                        "orders": 0
+                    },
+                    {
+                        "quantity": 0,
+                        "price": 0.0,
+                        "orders": 0
+                    }
+                ]
+            },
+            "timestamp": "2025-07-19T12:31:47.587+05:30",
+            "instrument_token": "BSE_EQ|INE092E01011",
+            "symbol": "KAKTEX",
+            "last_price": 19.6,
+            "volume": 1356,
+            "average_price": 19.56,
+            "oi": 0.0,
+            "net_change": -0.76,
+            "total_buy_quantity": 719.0,
+            "total_sell_quantity": 223.0,
+            "lower_circuit_limit": 18.62,
+            "upper_circuit_limit": 20.58,
+            "last_trade_time": "1752823830694",
+            "oi_day_high": 0.0,
+            "oi_day_low": 0.0
+        }
+    }
+}
